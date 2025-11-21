@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OldPhonePad.App/1.0.0": {
+        "dependencies": {
+          "OldPhonePad.Core": "1.0.0"
+        },
+        "runtime": {
+          "OldPhonePad.App.dll": {}
+        }
+      },
+      "OldPhonePad.Core/1.0.0": {
+        "runtime": {
+          "OldPhonePad.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OldPhonePad.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OldPhonePad.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

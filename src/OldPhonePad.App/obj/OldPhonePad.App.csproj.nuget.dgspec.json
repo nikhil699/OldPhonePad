@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.App/OldPhonePad.App.csproj": {}
+  },
+  "projects": {
+    "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.App/OldPhonePad.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.App/OldPhonePad.App.csproj",
+        "projectName": "OldPhonePad.App",
+        "projectPath": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.App/OldPhonePad.App.csproj",
+        "packagesPath": "/Users/nikhilchaurasiya/.nuget/packages/",
+        "outputPath": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikhilchaurasiya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/OldPhonePad.Core.csproj": {
+                "projectPath": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/OldPhonePad.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/OldPhonePad.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/OldPhonePad.Core.csproj",
+        "projectName": "OldPhonePad.Core",
+        "projectPath": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/OldPhonePad.Core.csproj",
+        "packagesPath": "/Users/nikhilchaurasiya/.nuget/packages/",
+        "outputPath": "/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikhilchaurasiya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

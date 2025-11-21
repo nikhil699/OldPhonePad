@@ -1,0 +1,11 @@
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/bin/Debug/net8.0/OldPhonePad.Core.deps.json
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/bin/Debug/net8.0/OldPhonePad.Core.dll
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/bin/Debug/net8.0/OldPhonePad.Core.pdb
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/OldPhonePad.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/OldPhonePad.Core.AssemblyInfoInputs.cache
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/OldPhonePad.Core.AssemblyInfo.cs
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/OldPhonePad.Core.csproj.CoreCompileInputs.cache
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/OldPhonePad.Core.dll
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/refint/OldPhonePad.Core.dll
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/OldPhonePad.Core.pdb
+/Users/nikhilchaurasiya/Desktop/OldPhonePad/src/OldPhonePad.Core/obj/Debug/net8.0/ref/OldPhonePad.Core.dll
