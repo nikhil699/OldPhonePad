@@ -20,6 +20,8 @@ Old phones used multi-press keypads:
 
 Pressing the same key repeatedly cycles through its letters.
 
+
+
 ### Special Rules
 
 | Key | Meaning |
@@ -27,6 +29,8 @@ Pressing the same key repeatedly cycles through its letters.
 | `*` | Backspace (delete last character or cancel current sequence) |
 | ` ` (space) | Pause (commit current sequence) |
 | `#` | Send/Finish (end of input) |
+
+
 
 Example:
 
