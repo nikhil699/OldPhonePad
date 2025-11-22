@@ -34,16 +34,6 @@ Pressing the same key repeatedly cycles through its letters.
 
 Example:
 
-OldPhonePad/
-├── src/
-│ ├── OldPhonePad.App/
-│ └── OldPhonePad.Core/
-└── tests/
-└── OldPhonePad.Tests/
-
-
-
-
 - **OldPhonePad.Core** → Business logic (`OldPhonePadConverter`)
 - **OldPhonePad.App** → Console application for manual testing
 - **OldPhonePad.Tests** → xUnit test suite
